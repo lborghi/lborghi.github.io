@@ -1,0 +1,51 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Dottrar.com" resolutions="1x" timestamp="1540223517841">
+  <folder name="css">
+    <file name="site_global.css" crc="198443731"/>
+    <file name="master_a-master.css" crc="188220354" ref="accesories:index:colours"/>
+    <file name="accesories.css" crc="4004219289" ref="accesories"/>
+    <file name="index.css" crc="4252160957" ref="index"/>
+    <file name="colours.css" crc="4004219289" ref="colours"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:colours:accesories"/>
+    <file name="museutils.js" crc="340535759" ref="index:colours:accesories"/>
+    <file name="whatinput.js" crc="86476730" ref="index:colours:accesories"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:colours:accesories"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:colours:accesories"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:colours:accesories"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:colours:accesories"/>
+    <file name="require.js" crc="7928878" ref="index:colours:accesories"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="156660088" ref="index"/>
+    <file name="dottrar_cabecera.png" crc="437985460" seo="true" ref="index:colours:accesories">
+      <caption webpage="index" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="mochila_portada.jpg" crc="50647079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.svg" crc="3953261889" seo="true" ref="index:colours:accesories">
+      <caption webpage="index" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="446948383" ref="index"/>
+    <file name="instagram.svg" crc="4046746868" seo="true" ref="index:colours:accesories">
+      <caption webpage="index" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="134912287" ref="index"/>
+    <file name="twitter.svg" crc="383886240" seo="true" ref="index:colours:accesories">
+      <caption webpage="index" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+    </file>
+    <file name="twitter_poster_.png" crc="4126296146" ref="index"/>
+  </folder>
+  <file name="index.html" crc="522671583" seo="true" mt="1540217374325" redirect="true"/>
+  <file name="colours.html" crc="4284978505" seo="true" mt="1540217374325" redirect="true"/>
+  <file name="accesories.html" crc="4122378974" seo="true" mt="1540217374325" redirect="true"/>
+</manifest>
