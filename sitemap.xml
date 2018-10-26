@@ -305,6 +305,24 @@
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/mail.svg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://dottrarbackpacks.com/pre-order.html</loc>
+    <lastmod>2018-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/logo_dottrar-web_h.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/facebook.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/instagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/mail.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/cabe-preorder.jpg</image:loc>
     </image:image>
@@ -312,7 +330,7 @@
       <image:loc>http://dottrarbackpacks.com/images/cabe-preorder860x248.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cabe-preorder501x144.jpg</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/cabe-preorder500x144.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
