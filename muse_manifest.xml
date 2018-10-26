@@ -1,14 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1540477596762">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1540560590629">
   <folder name="css">
     <file name="site_global.css" crc="55084414"/>
-    <file name="master_a-master.css" crc="3807407040" ref="accesories:index:colours"/>
-    <file name="nomq_preview_master_a-master.css" crc="3858698507" ref="accesories:index:colours"/>
-    <file name="accesories.css" crc="4009672569" ref="accesories"/>
-    <file name="nomq_accesories.css" crc="196734360" ref="accesories"/>
-    <file name="index.css" crc="3873877966" ref="index"/>
-    <file name="nomq_index.css" crc="3769699977" ref="index"/>
-    <file name="colours.css" crc="3953338472" ref="colours"/>
-    <file name="nomq_colours.css" crc="4055419304" ref="colours"/>
+    <file name="master_a-master.css" crc="4128297893" ref="accesories:index:colours"/>
+    <file name="nomq_preview_master_a-master.css" crc="488818837" ref="accesories:index:colours"/>
+    <file name="accesories.css" crc="81283829" ref="accesories"/>
+    <file name="nomq_accesories.css" crc="3848505934" ref="accesories"/>
+    <file name="index.css" crc="3899049549" ref="index"/>
+    <file name="nomq_index.css" crc="283719635" ref="index"/>
+    <file name="colours.css" crc="455444376" ref="colours"/>
+    <file name="nomq_colours.css" crc="3949936663" ref="colours"/>
+    <file name="iefonts_colours.css" crc="4001297556" ref="colours"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accesories:colours"/>
@@ -40,12 +41,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
     </file>
     <file name="logo_dottrar-web_h_poster_.png" crc="36799195" ref="index"/>
     <file name="cuadrada-1300x300.png" crc="130590660" seo="true" ref="index">
@@ -78,12 +79,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
     </file>
     <file name="facebook_poster_.png" crc="446948383" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:accesories:colours"/>
@@ -96,15 +97,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
     </file>
     <file name="instagram_poster_.png" crc="134912287" ref="index"/>
-    <file name="twitter.svg" crc="383886240" seo="true" ref="index:accesories:colours">
+    <file name="mail.svg" crc="3795992309" seo="true" ref="index:accesories:colours">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -113,14 +114,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
     </file>
-    <file name="twitter_poster_.png" crc="4126296146" ref="index"/>
+    <file name="mail_poster_.png" crc="262447473" ref="index"/>
     <file name="mochila portada1106x763.jpg" crc="4214432624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -368,7 +369,7 @@
       <caption webpage="colours" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3796105878" seo="true" mt="1540477168024" redirect="true"/>
-  <file name="accesories.html" crc="330150224" seo="true" mt="1540477168024" redirect="true"/>
-  <file name="colours.html" crc="4160519637" seo="true" mt="1540477410556" redirect="true"/>
+  <file name="index.html" crc="3910536388" seo="true" mt="1540560510457" redirect="true"/>
+  <file name="accesories.html" crc="4081593114" seo="true" mt="1540560510457" redirect="true"/>
+  <file name="colours.html" crc="304540807" seo="true" mt="1540560510457" redirect="true"/>
 </manifest>
