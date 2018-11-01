@@ -149,6 +149,24 @@
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/home%20cortada186x292.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/mochila%20portada316x218.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-1160x160.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-7160x160.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-6160x160.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-8160x160.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/home%20cortada119x187.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/accesories.html</loc>
@@ -257,6 +275,36 @@
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/slide-a10500x303.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a01320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a02320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a03320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a04320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a05320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a06320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a07320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a08320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a09320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a10320x194.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/colours.html</loc>
@@ -301,6 +349,9 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/cabe-preorder500x144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cabe-preorder320x92.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
