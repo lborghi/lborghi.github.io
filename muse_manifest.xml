@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1540566889657">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1541076940080">
   <folder name="css">
     <file name="site_global.css" crc="55084414"/>
-    <file name="master_a-master.css" crc="4137887314" ref="accesories:pre-order:index:colours"/>
-    <file name="nomq_preview_master_a-master.css" crc="285914866" ref="accesories:pre-order:index:colours"/>
-    <file name="accesories.css" crc="42902197" ref="accesories"/>
-    <file name="nomq_accesories.css" crc="303321587" ref="accesories"/>
-    <file name="pre-order.css" crc="4117620945" ref="pre-order"/>
-    <file name="nomq_pre-order.css" crc="355050054" ref="pre-order"/>
-    <file name="index.css" crc="3833915182" ref="index"/>
-    <file name="nomq_index.css" crc="3775656331" ref="index"/>
-    <file name="colours.css" crc="4146759409" ref="colours"/>
-    <file name="nomq_colours.css" crc="490299099" ref="colours"/>
+    <file name="master_a-master.css" crc="4150845983" ref="accesories:colours:index:pre-order"/>
+    <file name="nomq_preview_master_a-master.css" crc="285914866" ref="accesories:colours:index:pre-order"/>
+    <file name="accesories.css" crc="111069077" ref="accesories"/>
+    <file name="nomq_accesories.css" crc="4080011877" ref="accesories"/>
+    <file name="colours.css" crc="4184874286" ref="colours"/>
+    <file name="nomq_colours.css" crc="4122251085" ref="colours"/>
+    <file name="index.css" crc="4085763159" ref="index"/>
+    <file name="nomq_index.css" crc="3786256472" ref="index"/>
+    <file name="pre-order.css" crc="3855749482" ref="pre-order"/>
+    <file name="nomq_pre-order.css" crc="208876825" ref="pre-order"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accesories:colours:pre-order"/>
@@ -41,22 +41,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="logo_dottrar-web_h_poster_.png" crc="36799195" ref="index"/>
-    <file name="cuadrada-1300x300.png" crc="130590660" seo="true" ref="index">
+    <file name="cuadrada-1.png" crc="115050125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-7300x300.png" crc="369036367" seo="true" ref="index">
+    <file name="cuadrada-7.png" crc="3932795794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="cuadrada-4.jpg" crc="3964133448" seo="true" ref="index">
@@ -65,10 +66,12 @@
     <file name="cuadrada-5.jpg" crc="441753415" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-8300x300.png" crc="3858534320" seo="true" ref="index">
+    <file name="cuadrada-8.png" crc="237347467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-6300x300.png" crc="3809191283" seo="true" ref="index">
+    <file name="cuadrada-6.png" crc="4018986947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="home cortada.png" crc="3871915583" seo="true" ref="index">
@@ -82,16 +85,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="facebook_poster_.png" crc="446948383" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:accesories:colours:pre-order"/>
@@ -103,19 +105,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="instagram_poster_.png" crc="134912287" ref="index"/>
-    <file name="mail.svg" crc="3795992309" seo="true" ref="index:accesories:colours:pre-order">
+    <file name="mail.svg" crc="3790667857" seo="true" ref="index:accesories:colours:pre-order">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -123,25 +124,24 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
-      <caption webpage="colours" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="colours" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
-    <file name="mail_poster_.png" crc="262447473" ref="index"/>
+    <file name="mail_poster_.png" crc="163079774" ref="index"/>
     <file name="mochila portada1106x763.jpg" crc="4214432624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-1187x187.png" crc="527112302" seo="true" ref="index">
+    <file name="cuadrada-1187x187.png" crc="206726984" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-7187x187.png" crc="3777568069" seo="true" ref="index">
+    <file name="cuadrada-7187x187.png" crc="3842583611" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cuadrada-4187x187.jpg" crc="3968211429" seo="true" ref="index">
@@ -150,10 +150,10 @@
     <file name="cuadrada-5187x187.jpg" crc="85554314" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-8187x187.png" crc="4161755770" seo="true" ref="index">
+    <file name="cuadrada-8187x187.png" crc="4131791605" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-6187x187.png" crc="133792236" seo="true" ref="index">
+    <file name="cuadrada-6187x187.png" crc="3818696911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home cortada417x654.png" crc="289887338" seo="true" ref="index">
@@ -162,11 +162,11 @@
     <file name="mochila portada987x681.jpg" crc="523133040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-1167x167.png" crc="3770250150" seo="true" ref="index">
+    <file name="cuadrada-1167x167.png" crc="373474048" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-7167x167.png" crc="102125368" seo="true" ref="index">
+    <file name="cuadrada-7167x167.png" crc="4009745504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -176,11 +176,11 @@
     <file name="cuadrada-5167x167.jpg" crc="2313632" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-8167x167.png" crc="4221690379" seo="true" ref="index">
+    <file name="cuadrada-8167x167.png" crc="3818527987" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-6167x167.png" crc="3894130025" seo="true" ref="index">
+    <file name="cuadrada-6167x167.png" crc="4274250442" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -194,10 +194,10 @@
     <file name="abrir_poster_u6199.png" crc="229763918" ref="index:accesories"/>
     <file name="cerrar.svg" crc="94584885" ref="index:accesories"/>
     <file name="cerrar_poster_u6190.png" crc="66643228" ref="index:accesories"/>
-    <file name="cuadrada-1144x144.png" crc="3854344764" seo="true" ref="index">
+    <file name="cuadrada-1144x144.png" crc="23929552" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-7144x144.png" crc="4265831157" seo="true" ref="index">
+    <file name="cuadrada-7144x144.png" crc="3992770274" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cuadrada-4144x144.jpg" crc="121135644" seo="true" ref="index">
@@ -206,10 +206,10 @@
     <file name="cuadrada-5144x144.jpg" crc="3960080427" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-8144x144.png" crc="18627453" seo="true" ref="index">
+    <file name="cuadrada-8144x144.png" crc="160925408" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-6144x144.png" crc="11795597" seo="true" ref="index">
+    <file name="cuadrada-6144x144.png" crc="219704624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home cortada320x502.png" crc="3998783984" seo="true" ref="index">
@@ -218,10 +218,10 @@
     <file name="mochila portada802x553.jpg" crc="516650519" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-1136x136.png" crc="402118972" seo="true" ref="index">
+    <file name="cuadrada-1136x136.png" crc="477468568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-7136x136.png" crc="3790110102" seo="true" ref="index">
+    <file name="cuadrada-7136x136.png" crc="4094327474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cuadrada-4136x136.jpg" crc="247434282" seo="true" ref="index">
@@ -230,10 +230,10 @@
     <file name="cuadrada-5136x136.jpg" crc="138272161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-8136x136.png" crc="3812358744" seo="true" ref="index">
+    <file name="cuadrada-8136x136.png" crc="375993096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cuadrada-6136x136.png" crc="81607152" seo="true" ref="index">
+    <file name="cuadrada-6136x136.png" crc="123243494" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home cortada302x474.png" crc="3808120158" seo="true" ref="index">
@@ -245,37 +245,7 @@
     <file name="home cortada247x388.png" crc="522916029" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mochila portada565x390.jpg" crc="120579341" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-1286x286.png" crc="4211645802" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-7286x286.png" crc="4289089902" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-6286x286.png" crc="3974006429" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-8286x286.png" crc="175531616" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home cortada213x334.png" crc="400045374" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="mochila portada494x341.jpg" crc="3895048532" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-1250x250.png" crc="4109876603" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-7250x250.png" crc="3806009615" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-6250x250.png" crc="2719160" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cuadrada-8250x250.png" crc="4132559190" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home cortada186x292.png" crc="4001157113" seo="true" ref="index">
@@ -382,8 +352,8 @@
       <caption webpage="pre-order" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4173094930" seo="true" mt="1540565561139" redirect="true"/>
-  <file name="accesories.html" crc="4066537499" seo="true" mt="1540565561139" redirect="true"/>
-  <file name="colours.html" crc="115849766" seo="true" mt="1540565561139" redirect="true"/>
-  <file name="pre-order.html" crc="3821607773" seo="true" mt="1540565561139" redirect="true"/>
+  <file name="index.html" crc="255241102" seo="true" mt="1541076875140" redirect="true"/>
+  <file name="accesories.html" crc="311970474" seo="true" mt="1541076841803" redirect="true"/>
+  <file name="colours.html" crc="4128577847" seo="true" mt="1541076841803" redirect="true"/>
+  <file name="pre-order.html" crc="4127688652" seo="true" mt="1541076841803" redirect="true"/>
 </manifest>

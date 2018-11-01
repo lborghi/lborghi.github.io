@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dottrarbackpacks.com/index.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12,10 +12,10 @@
       <image:loc>http://dottrarbackpacks.com/images/logo_dottrar-web_h.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-1300x300.png</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-7300x300.png</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-7.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/cuadrada-4.jpg</image:loc>
@@ -24,10 +24,10 @@
       <image:loc>http://dottrarbackpacks.com/images/cuadrada-5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-8300x300.png</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-8.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-6300x300.png</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/cuadrada-6.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/home%20cortada.png</image:loc>
@@ -144,37 +144,7 @@
       <image:loc>http://dottrarbackpacks.com/images/home%20cortada247x388.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/mochila%20portada565x390.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-1286x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-7286x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-6286x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-8286x286.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/home%20cortada213x334.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/mochila%20portada494x341.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-1250x250.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-7250x250.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-6250x250.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/cuadrada-8250x250.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/home%20cortada186x292.png</image:loc>
@@ -182,7 +152,7 @@
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/accesories.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -290,7 +260,7 @@
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/colours.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +278,7 @@
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/pre-order.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <lastmod>2018-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
