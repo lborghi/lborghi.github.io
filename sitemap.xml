@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dottrarbackpacks.com/index.html</loc>
-    <lastmod>2018-11-01</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/accesories.html</loc>
-    <lastmod>2018-11-01</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +308,7 @@
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/colours.html</loc>
-    <lastmod>2018-11-01</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -346,6 +346,9 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/cabe-preorder860x248.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cabe-preorder680x196.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/cabe-preorder500x144.jpg</image:loc>

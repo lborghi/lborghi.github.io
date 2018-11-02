@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1541190360114">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1541192117985">
   <folder name="css">
     <file name="site_global.css" crc="55084414"/>
-    <file name="master_a-master.css" crc="238419407" ref="index:accesories:pre-order:colours"/>
+    <file name="master_a-master.css" crc="4175025544" ref="index:accesories:pre-order:colours"/>
     <file name="nomq_preview_master_a-master.css" crc="3945081910" ref="index:accesories:pre-order:colours"/>
     <file name="index.css" crc="468211046" ref="index"/>
     <file name="nomq_index.css" crc="19140790" ref="index"/>
     <file name="accesories.css" crc="3970340267" ref="accesories"/>
     <file name="nomq_accesories.css" crc="463778858" ref="accesories"/>
-    <file name="pre-order.css" crc="349127310" ref="pre-order"/>
-    <file name="nomq_pre-order.css" crc="223329715" ref="pre-order"/>
+    <file name="pre-order.css" crc="423863138" ref="pre-order"/>
+    <file name="nomq_pre-order.css" crc="4232490022" ref="pre-order"/>
     <file name="colours.css" crc="3917568264" ref="colours"/>
     <file name="nomq_colours.css" crc="4250369925" ref="colours"/>
   </folder>
@@ -42,18 +42,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="logo_dottrar-web_h_poster_.png" crc="36799195" ref="index"/>
     <file name="cuadrada-1.png" crc="115050125" seo="true" ref="index">
@@ -90,18 +91,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="facebook_poster_.png" crc="446948383" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:accesories:colours:pre-order"/>
@@ -114,18 +116,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="instagram_poster_.png" crc="134912287" ref="index"/>
     <file name="mail.svg" crc="3790667857" seo="true" ref="index:accesories:colours:pre-order">
@@ -137,18 +140,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
     </file>
     <file name="mail_poster_.png" crc="163079774" ref="index"/>
     <file name="mochila portada1106x763.jpg" crc="4214432624" seo="true" ref="index">
@@ -206,10 +210,10 @@
     <file name="mochila portada849x586.jpg" crc="4137211477" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="abrir.svg" crc="3881540917" ref="index:accesories"/>
-    <file name="abrir_poster_u6199.png" crc="229763918" ref="index:accesories"/>
-    <file name="cerrar.svg" crc="94584885" ref="index:accesories"/>
-    <file name="cerrar_poster_u6190.png" crc="66643228" ref="index:accesories"/>
+    <file name="abrir.svg" crc="3881540917" ref="index:accesories:pre-order"/>
+    <file name="abrir_poster_u6199.png" crc="229763918" ref="index:accesories:pre-order"/>
+    <file name="cerrar.svg" crc="94584885" ref="index:accesories:pre-order"/>
+    <file name="cerrar_poster_u6190.png" crc="66643228" ref="index:accesories:pre-order"/>
     <file name="cuadrada-1144x144.png" crc="23929552" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -408,19 +412,27 @@
     </file>
     <file name="cabe-preorder.jpg" crc="3945217572" seo="true" ref="pre-order">
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
     </file>
     <file name="cabe-preorder860x248.jpg" crc="3902816519" seo="true" ref="pre-order">
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+    </file>
+    <file name="cabe-preorder680x196.jpg" crc="149758133" seo="true" ref="pre-order">
+      <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
     </file>
     <file name="cabe-preorder500x144.jpg" crc="3923745069" seo="true" ref="pre-order">
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
     </file>
     <file name="cabe-preorder320x92.jpg" crc="3914878645" seo="true" ref="pre-order">
       <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="273712640" seo="true" mt="1541080309637" redirect="true"/>
-  <file name="accesories.html" crc="4210783006" seo="true" mt="1541080309637" redirect="true"/>
-  <file name="colours.html" crc="166762792" seo="true" mt="1541080309637" redirect="true"/>
-  <file name="pre-order.html" crc="3911294652" seo="true" mt="1541190169728" redirect="true"/>
+  <file name="index.html" crc="529786907" seo="true" mt="1541192030527" redirect="true"/>
+  <file name="accesories.html" crc="282765309" seo="true" mt="1541192030527" redirect="true"/>
+  <file name="colours.html" crc="243723865" seo="true" mt="1541192030527" redirect="true"/>
+  <file name="pre-order.html" crc="4227210381" seo="true" mt="1541192030527" redirect="true"/>
 </manifest>
