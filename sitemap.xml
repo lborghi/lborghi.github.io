@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://dottrarbackpacks.com/index.html</loc>
-    <lastmod>2018-11-07</lastmod>
+    <lastmod>2018-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -28,6 +28,9 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/cuadrada-6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/iconitos.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/home%20cortada.png</image:loc>
@@ -246,156 +249,6 @@
       <image:loc>http://dottrarbackpacks.com/images/slide-a10-crop-u71807.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a01-crop-u718172.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a02-crop-u718132.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a03-crop-u718092.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a04-crop-u718212.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a05-crop-u718192.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a06-crop-u718252.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a07-crop-u718112.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a08-crop-u718152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a09-crop-u718232.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a10-crop-u718072.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a01620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a02620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a03620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a04620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a05620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a06620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a07620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a08620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a09620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a10620x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a01500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a02500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a03500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a04500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a05500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a06500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a07500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a08500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a09500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a10500x303.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a01385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a02385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a03385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a04385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a05385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a06385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a07385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a08385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a09385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a10385x233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a01320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a02320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a03320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a04320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a05320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a06320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a07320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a08320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a09320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/slide-a10320x194.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-01-crop-u70512.png</image:loc>
     </image:image>
     <image:image>
@@ -526,6 +379,36 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-17-crop-u714082.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a01-crop-u718172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a02-crop-u718132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a03-crop-u718092.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a04-crop-u718212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a05-crop-u718192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a06-crop-u718252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a07-crop-u718112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a08-crop-u718152.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a09-crop-u718232.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a10-crop-u718072.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-01-crop-u705123.png</image:loc>
@@ -741,6 +624,36 @@
       <image:loc>http://dottrarbackpacks.com/images/petru-17-crop-u714085.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a01620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a02620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a03620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a04620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a05620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a06620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a07620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a08620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a09620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a10620x375.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-01-crop-u705126.png</image:loc>
     </image:image>
     <image:image>
@@ -790,6 +703,36 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-17-crop-u714086.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a01500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a02500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a03500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a04500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a05500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a06500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a07500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a08500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a09500x303.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a10500x303.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-01-crop-u705127.png</image:loc>
@@ -843,6 +786,36 @@
       <image:loc>http://dottrarbackpacks.com/images/petru-17-crop-u714087.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a01385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a02385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a03385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a04385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a05385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a06385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a07385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a08385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a09385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a10385x233.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-01-crop-u705128.png</image:loc>
     </image:image>
     <image:image>
@@ -892,6 +865,36 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-17-crop-u714088.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a01320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a02320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a03320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a04320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a05320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a06320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a07320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a08320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a09320x194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/slide-a10320x194.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/petru-01-crop-u705129.png</image:loc>
@@ -947,7 +950,7 @@
   </url>
   <url>
     <loc>http://dottrarbackpacks.com/colours.html</loc>
-    <lastmod>2018-11-08</lastmod>
+    <lastmod>2018-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -963,6 +966,9 @@
       <image:loc>http://dottrarbackpacks.com/images/mail.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cabecera_colores-01-crop-u80227.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/01_c_amarillo-negro-crop-u46388.jpg</image:loc>
     </image:image>
     <image:image>
@@ -973,30 +979,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/01_f_amarillo-negro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/02_c_beigel-ciruela-crop-u55387.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/02_f_beigel-ciruela-crop-u55384.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/02_c_beigel-ciruela.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/02_f_beigel-ciruela.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela-crop-u65948.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/03_f_violeta-ciruela-crop-u65943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/03_f_violeta-ciruela.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/04_c_tierra-gris-crop-u65975.jpg</image:loc>
@@ -1011,30 +993,6 @@
       <image:loc>http://dottrarbackpacks.com/images/04_f_tierra-gris.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela-crop-u67498.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/05_f_azul-ciruela-crop-u67493.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/05_f_azul-ciruela.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro-crop-u67571.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro-crop-u67567.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/07_c_azul-gris-crop-u67547.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1047,6 +1005,30 @@
       <image:loc>http://dottrarbackpacks.com/images/07_f_azul-gris.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/02_c_beigel-ciruela-crop-u55387.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/02_f_beigel-ciruela-crop-u55384.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/02_c_beigel-ciruela.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/02_f_beigel-ciruela.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela-crop-u67498.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/05_f_azul-ciruela-crop-u67493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/05_f_azul-ciruela.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/08_c_roja-gris-crop-u67525.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1057,6 +1039,30 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/08_f_roja-gris.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela-crop-u65948.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/03_f_violeta-ciruela-crop-u65943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/03_f_violeta-ciruela.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro-crop-u67571.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro-crop-u67567.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/09_c_verde-negro-crop-u68732.jpg</image:loc>
@@ -1077,22 +1083,55 @@
       <image:loc>http://dottrarbackpacks.com/images/01_f_amarillo-negro-crop-u527852.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/04_c_tierra-gris2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/04_f_tierra-gris2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/07_c_azul-gris2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/07_f_azul-gris2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/02_c_beigel-ciruela-crop-u553872.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/02_f_beigel-ciruela-crop-u553842.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela-crop-u674982.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/05_f_azul-ciruela2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/08_c_roja-gris2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/08_f_roja-gris2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela-crop-u659482.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela-crop-u674982.jpg</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/03_f_violeta-ciruela2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro-crop-u675712.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro-crop-u675672.jpg</image:loc>
+      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/09_c_verde-negro2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/09_f_verde-negro2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/cabecera_colores-01.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/01_c_amarillo-negro-crop-u463883.jpg</image:loc>
@@ -1107,13 +1146,16 @@
       <image:loc>http://dottrarbackpacks.com/images/02_f_beigel-ciruela-crop-u553843.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela-crop-u659483.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/05_c_azul-ciruela-crop-u674983.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/03_c_violeta-ciruela-crop-u659483.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro-crop-u675713.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro-crop-u675672.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/01_c_amarillo-negro-crop-u463884.jpg</image:loc>
@@ -1135,39 +1177,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/06_c_bordo-negro-crop-u675714.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/04_c_tierra-gris2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/04_f_tierra-gris2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/07_c_azul-gris2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/07_f_azul-gris2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/05_f_azul-ciruela2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/08_c_roja-gris2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/08_f_roja-gris2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/03_f_violeta-ciruela2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/06_f_bordo-negro2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/09_c_verde-negro2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dottrarbackpacks.com/images/09_f_verde-negro2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dottrarbackpacks.com/images/01_c_amarillo-negro2.jpg</image:loc>
