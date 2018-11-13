@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1542114552700">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1542115708359">
   <folder name="css">
     <file name="site_global.css" crc="55084414"/>
-    <file name="master_a-master.css" crc="27665750" ref="pre-order:colours:accesories:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="285914866" ref="pre-order:colours:accesories:index"/>
-    <file name="pre-order.css" crc="422281626" ref="pre-order"/>
+    <file name="master_a-master.css" crc="4006188677" ref="accesories:index:pre-order:colours"/>
+    <file name="nomq_preview_master_a-master.css" crc="285914866" ref="accesories:index:pre-order:colours"/>
+    <file name="accesories.css" crc="85544266" ref="accesories"/>
+    <file name="nomq_accesories.css" crc="115488252" ref="accesories"/>
+    <file name="iefonts_accesories.css" crc="4001297556" ref="accesories"/>
+    <file name="index.css" crc="513560908" ref="index"/>
+    <file name="nomq_index.css" crc="3981008856" ref="index"/>
+    <file name="pre-order.css" crc="222879687" ref="pre-order"/>
     <file name="nomq_pre-order.css" crc="130619480" ref="pre-order"/>
-    <file name="colours.css" crc="3924736729" ref="colours"/>
+    <file name="colours.css" crc="531763800" ref="colours"/>
     <file name="nomq_colours.css" crc="253618214" ref="colours"/>
     <file name="iefonts_colours.css" crc="4001297556" ref="colours"/>
-    <file name="accesories.css" crc="256747840" ref="accesories"/>
-    <file name="nomq_accesories.css" crc="283806411" ref="accesories"/>
-    <file name="iefonts_accesories.css" crc="4001297556" ref="accesories"/>
-    <file name="index.css" crc="189217540" ref="index"/>
-    <file name="nomq_index.css" crc="3981008856" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accesories:colours:pre-order"/>
@@ -31,7 +31,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="accesories:colours"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3875262003" ref="index"/>
+    <file name="favicon.ico" crc="307259561" ref="index"/>
     <file name="mochila_portada.jpg" crc="350665560" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -48,6 +48,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -56,15 +65,6 @@
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
@@ -132,6 +132,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -140,15 +149,6 @@
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
@@ -171,6 +171,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -179,15 +188,6 @@
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
@@ -209,6 +209,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
+      <caption webpage="accesories" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -217,15 +226,6 @@
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
-      <caption webpage="accesories" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
       <caption webpage="pre-order" alt=""/>
@@ -1618,8 +1618,8 @@
       <caption webpage="pre-order" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="210908628" seo="true" mt="1542113519623" redirect="true"/>
-  <file name="accesories.html" crc="4119393560" seo="true" mt="1542113588447" redirect="true"/>
-  <file name="colours.html" crc="464797063" seo="true" mt="1542111185866" redirect="true"/>
-  <file name="pre-order.html" crc="4093942916" seo="true" mt="1542114413461" redirect="true"/>
+  <file name="index.html" crc="36414014" seo="true" mt="1542113519623" redirect="true"/>
+  <file name="accesories.html" crc="161976636" seo="true" mt="1542113588447" redirect="true"/>
+  <file name="colours.html" crc="3876684822" seo="true" mt="1542111185866" redirect="true"/>
+  <file name="pre-order.html" crc="59137873" seo="true" mt="1542115555413" redirect="true"/>
 </manifest>
