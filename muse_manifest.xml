@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1542734196740">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dottrarbackpacks.com" resolutions="1x" timestamp="1543145232777">
   <folder name="css">
     <file name="site_global.css" crc="55084414"/>
-    <file name="master_a-master.css" crc="3906724666" ref="index:accesories:pre-order:colours"/>
-    <file name="nomq_preview_master_a-master.css" crc="285914866" ref="index:accesories:pre-order:colours"/>
-    <file name="index.css" crc="3944821077" ref="index"/>
+    <file name="master_a-master.css" crc="341415614" ref="accesories:index:colours:pre-order"/>
+    <file name="nomq_preview_master_a-master.css" crc="285914866" ref="accesories:index:colours:pre-order"/>
+    <file name="accesories.css" crc="148798809" ref="accesories"/>
+    <file name="nomq_accesories.css" crc="413386228" ref="accesories"/>
+    <file name="index.css" crc="421855338" ref="index"/>
     <file name="nomq_index.css" crc="182430029" ref="index"/>
-    <file name="accesories.css" crc="3847634927" ref="accesories"/>
-    <file name="nomq_accesories.css" crc="3804208247" ref="accesories"/>
-    <file name="pre-order.css" crc="513961199" ref="pre-order"/>
-    <file name="nomq_pre-order.css" crc="130619480" ref="pre-order"/>
-    <file name="colours.css" crc="526163181" ref="colours"/>
+    <file name="colours.css" crc="288601325" ref="colours"/>
     <file name="nomq_colours.css" crc="4230773233" ref="colours"/>
+    <file name="pre-order.css" crc="3866006163" ref="pre-order"/>
+    <file name="nomq_pre-order.css" crc="130619480" ref="pre-order"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accesories:colours:pre-order"/>
@@ -46,6 +46,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -63,14 +71,6 @@
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
     </file>
     <file name="logo_dottrar-web_h_poster_.png" crc="36799195" ref="index"/>
     <file name="cuadrada-1.png" crc="240803578" seo="true" ref="index">
@@ -130,6 +130,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -147,14 +155,6 @@
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
     </file>
     <file name="facebook_poster_.png" crc="446948383" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:accesories:colours:pre-order"/>
@@ -169,6 +169,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -186,14 +194,6 @@
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
     </file>
     <file name="instagram_poster_.png" crc="134912287" ref="index"/>
     <file name="mail.svg" crc="3790667857" seo="true" ref="index:accesories:colours:pre-order">
@@ -207,6 +207,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
+      <caption webpage="pre-order" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
       <caption webpage="colours" alt=""/>
@@ -224,14 +232,6 @@
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
       <caption webpage="accesories" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
-      <caption webpage="pre-order" alt=""/>
     </file>
     <file name="mail_poster_.png" crc="163079774" ref="index"/>
     <file name="cuadrada-1187x187.png" crc="4030788583" seo="true" ref="index">
@@ -1616,8 +1616,8 @@
       <caption webpage="pre-order" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="194342153" seo="true" mt="1542543602550" redirect="true"/>
-  <file name="accesories.html" crc="4152550789" seo="true" mt="1542543581810" redirect="true"/>
-  <file name="colours.html" crc="4270664942" seo="true" mt="1542628704368" redirect="true"/>
-  <file name="pre-order.html" crc="4026293601" seo="true" mt="1542543106023" redirect="true"/>
+  <file name="index.html" crc="3874207349" seo="true" mt="1543145034476" redirect="true"/>
+  <file name="accesories.html" crc="3934783750" seo="true" mt="1543145051169" redirect="true"/>
+  <file name="colours.html" crc="169728022" seo="true" mt="1543145068421" redirect="true"/>
+  <file name="pre-order.html" crc="148218866" seo="true" mt="1542543106023" redirect="true"/>
 </manifest>
